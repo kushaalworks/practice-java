@@ -20,12 +20,22 @@ Welcome to **Java Basics for Beginners**, a structured and beginner-friendly gui
 This folder contains fundamental Java programs that cover key concepts such as:
 - **Variables and Data Types** (`VariableAndDataType.java`)
 - **Type Casting** (`TypeCasting.java`)
-- **Operators and Expressions**
-- **Control Flow Statements (if-else, loops)**
-- **Functions and Methods**
 
 Each program is explained in the `README.md` inside the `basics` folder.
 ---
+
+## 🔹 **2. Basics (`src/operators/`)**
+This folder contains fundamental Java programs that cover key concepts such as:
+- **Arithmetic Operators** (`Operators.java`)
+- **Relational Operators** (`Operators.java`)
+- **Logical Operators** (`LogicalAndOperator.java` `LogicalNotOperator.java` `LogicalorOperator.java` `ShortCircuitBehavior.java`)
+- **Bitwise Operators** ()
+- **Unary Operators** ()
+- **Ternary Operators** ()
+
+Each program is explained in the `README.md` inside the `operators` folder.
+---
+
 
 ## 🚀 Getting Started  
 1. Clone this repository:  
