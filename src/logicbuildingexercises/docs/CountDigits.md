@@ -1,4 +1,6 @@
-# Understanding the `do-while` Loop in Java
+# Count The Number of Digits in a Given Number 
+
+Note: do-while loop explanation included.
 
 ## ✅ How Does a `do-while` Loop Work?
 
